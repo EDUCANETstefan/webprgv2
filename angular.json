@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "webPrg"
+    }
+  },
+  "defaultProject": "webPrg",
+  "cli": {
+    "analytics": "0a7185e2-c52d-460f-a538-22db1ffa260b"
+  }
 }
