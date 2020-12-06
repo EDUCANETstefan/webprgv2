@@ -23,7 +23,9 @@ export class HeaderComponent implements OnInit {
   linksArray: iSearch[] = [
     { title: "home", link: "home" },
     { title: "about", link: "about" },
-    { title: "contact", link: "contact"}
+    { title: "contact", link: "contact"},
+    { title: "register", link: "user.create" }
+
   ];
 
   filter(): iSearch[] {
